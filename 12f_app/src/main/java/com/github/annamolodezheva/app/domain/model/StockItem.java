@@ -1,7 +1,5 @@
 package com.github.annamolodezheva.app.domain.model;
 
-import com.github.annamolodezheva.app.domain.model.ItemType;
-
 import javax.persistence.*;
 
 @Entity

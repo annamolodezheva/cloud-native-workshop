@@ -1,5 +1,8 @@
-com\github\annamolodezheva\app\StockItemRepository.class
+com\github\annamolodezheva\app\SecurityConfig.class
+com\github\annamolodezheva\app\SecuredResource.class
 com\github\annamolodezheva\app\StockResource.class
 com\github\annamolodezheva\app\domain\model\StockItem.class
-com\github\annamolodezheva\app\domain\model\ItemType.class
 com\github\annamolodezheva\app\StockSpringBootStarter.class
+com\github\annamolodezheva\app\StockItemRepository.class
+com\github\annamolodezheva\app\LogoutResource.class
+com\github\annamolodezheva\app\domain\model\ItemType.class

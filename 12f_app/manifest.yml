@@ -4,3 +4,4 @@ applications:
   memory: 1G
   services:
   - an-db
+  - my-redis
